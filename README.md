@@ -4,4 +4,4 @@
 
 - git clone https://github.com/maracracker12/GBM
 
-- python2 GB9.py
+- python2 gb00.py
