@@ -1,1 +1,4 @@
-# GBM
+- pkg install python2
+- pkg install git
+-
+- python2 GB-M.py
